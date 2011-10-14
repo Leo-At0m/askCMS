@@ -1,0 +1,49 @@
+
+ * Informações
+ --------------------------
+ askCMS - Formspring Clone
+ GPL/GNU (Código Livre)
+ v1.0.0.0 - Alpha
+ At0m (C) 2011
+ --------------------------
+
+
+ * Sobre
+ --------------------------
+ askCMS é um Sistema de Gerenciamento de Conteúdo (CMS).
+ Que lhe permitirá criar sua própria rede social de Perguntas
+ e respostas anônimas, estilo ao site Formspring.
+ 100% Grátis e com Código Livre.
+ askCMS não tem nenhuma relação com a questionCMS, do mesmo desenvolvedor.
+ Está sendo escrita completamente do zero, desde sua database.
+ Utiliza database MySQL como armazenamento de dados.
+ --------------------------
+
+
+ * Características
+ --------------------------
+ Diferente da questionCMS, esta não virá com todos os sistemas que a outra possui.
+ Apenas o básico será desenvolvido, pelo menos na primeira versão de lançamento, na
+ qual a CMS será posta à prova de testes livre para download.
+ Isso não significa que esta CMS será de certa forma "pior" que a outra, pelo contrário,
+ com o passar do tempo, eu (At0m) e os próprios usuários poderão re-criar os antigos sistemas,
+ e adicioná-los assim a nova CMS.
+
+
+ * Para que serve a askCMS ?
+ --------------------------
+ É uma CMS que permitirá a você criar a sua própria rede social de perguntas e respostas.
+
+
+ * Licença do Projeto
+ --------------------------
+ askCMS é um projeto CÓDIGO LIVRE e 100% Gratuito, você não deverá utilizar partes, e o projeto
+ em si para fins lucrativos, use-o de forma resposável.
+ Como de certa forma é um Clone, este projeto tem apenas fins educativos e de puro conhecimento.
+ Este projeto usa GNU/GPL como Licenças. Para mais informações a respeito dessa licença: http://fsf.org
+
+
+ * Créditos
+ --------------------------
+ At0m - Desenvolvedor/Programador
+ http://at0m.com.nu - at0m@live.com
